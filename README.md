@@ -41,9 +41,7 @@
 
 ⭐ If DiCo is helpful to your projects, please help star this repo. Thanks! 🤗
 
-![256](assets/fig2.png)
-![512](assets/fig3.png)
-
+![performance](assets/teaser.png)
 
 </div>
 
