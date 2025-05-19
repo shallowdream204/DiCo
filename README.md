@@ -41,8 +41,8 @@
 
 ⭐ If DiCo is helpful to your projects, please help star this repo. Thanks! 🤗
 
-<img src="assets/fig2.png" height="300px"/>
-<img src="assets/fig3.png" height="300px"/>
+![256](assets/fig2.png)
+![512](assets/fig3.png)
 
 
 </div>
@@ -53,7 +53,7 @@
 ## 🔥 News
 - **2025.5.18**: This repo is created.
 
-<img src="assets/fig1.png" height="550px"/>
+![samples](assets/fig1.png)
 
 
 
