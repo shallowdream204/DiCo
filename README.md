@@ -53,7 +53,7 @@
 ## 🔥 News
 - **2025.5.18**: This repo is created.
 
-<img src="assets/fig1.png" height="480px"/>
+<img src="assets/fig1.png" height="550px"/>
 
 
 
