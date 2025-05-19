@@ -41,8 +41,8 @@
 
 ⭐ If DiCo is helpful to your projects, please help star this repo. Thanks! 🤗
 
-<img src="assets/fig2.png" height="250px"/>
-<img src="assets/fig3.png" height="250px"/>
+<img src="assets/fig2.png" height="300px"/>
+<img src="assets/fig3.png" height="300px"/>
 
 
 </div>
