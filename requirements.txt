@@ -1,0 +1,11 @@
+timm
+diffusers
+einops
+torchprofile
+accelerate
+tensorflow
+tqdm
+scipy
+requests
+wandb
+matplotlib
