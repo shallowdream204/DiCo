@@ -25,7 +25,7 @@
     <strong>NeurIPS 2025 Spotlight</strong>
 </div>
 <div>
-    <strong><em>Diffusion ConvNet is Stronger than you Think!</em></strong>
+    <em>Diffusion ConvNet is Stronger than you Think!</em>
 </div>
 <div>
     <h4 align="center">
@@ -139,6 +139,14 @@ torchrun --nnodes=1 --nproc_per_node=8 --master-port=1234 \
 ```
 
 These scripts generate a folder of samples as well as a `.npz` file which can be directly used with [ADM's TensorFlow evaluation suite](https://github.com/openai/guided-diffusion/tree/main/evaluations) to compute FID, Inception Score and other metrics.
+
+## 🪪 License
+
+The provided code and pre-trained weights are licensed under the [Apache 2.0 license](LICENSE).
+
+## 🤗 Acknowledgement
+
+This code is based on [DiT](https://github.com/facebookresearch/DiT), [fast-DiT](https://github.com/chuanyangjin/fast-DiT) and [U-DiT](https://github.com/YuchuanTian/U-DiT). We thank the authors for their awesome work.
 
 
 ## 📧 Contact
