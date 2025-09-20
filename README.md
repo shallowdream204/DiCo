@@ -88,7 +88,7 @@ accelerate launch \
     --feature-path=/path/to/store/features \
     --image-size=256 \
     --model-domain=dico \
-    --model=DiCo-XL\
+    --model=DiCo-XL \
     --results-dir=/path/to/store/exp/results \
     --exp-name=DiCo-XL-256
 ```
@@ -119,7 +119,6 @@ To sample 50K images from our pre-trained DiCo-XL (400K iters, w/o cfg, FID=11.6
 torchrun --nnodes=1 --nproc_per_node=8 --master-port=1234 \
     sample_ddp.py \
     --ckpt=/path/to/DiCo-XL-400K-256x256.pt \
-    --image-size=256 \
     --model=DiCo-XL \
     --model-domain=dico \
     --cfg-scale=1.0 \
@@ -131,7 +130,6 @@ To sample 50K images from our pre-trained DiCo-XL (3750K iters, w/ cfg=1.4, FID=
 torchrun --nnodes=1 --nproc_per_node=8 --master-port=1234 \
     sample_ddp.py \
     --ckpt=/path/to/DiCo-XL-3750K-256x256.pt \
-    --image-size=256 \
     --model=DiCo-XL \
     --model-domain=dico \
     --cfg-scale=1.4 \
