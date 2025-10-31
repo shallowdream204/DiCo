@@ -153,10 +153,11 @@ If you have any questions, please feel free to reach me out at shallowdream555@g
 ## 📖 Citation
 If you find our work useful for your research, please consider citing our paper:
 ```
-@article{ai2025dico,
+@inproceedings{ai2025dico,
     title={DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling},
-    author={Ai, Yuang and Fan, Qihang and Hu, Xuefeng and Yang, Zhenheng and He, Ran and Huang, Huaibo},
-    journal={arXiv preprint arXiv:2505.11196},
-    year={2025}
+    author={Yuang Ai and Qihang Fan and Xuefeng Hu and Zhenheng Yang and Ran He and Huaibo Huang},
+    booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+    year={2025},
+    url={https://openreview.net/forum?id=UnslcaZSnb}
 }
 ```
