@@ -1,9 +1,6 @@
 <div align="center">
 
-<div class="logo">
-      <img src="assets/logo.png" style="width:180px">
-   </a>
-</div>
+
 
 <h1>DiCo: Revitalizing ConvNets for Scalable and Efficient Diffusion Modeling</h1>
 
